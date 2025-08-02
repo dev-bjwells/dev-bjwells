@@ -4,7 +4,7 @@ My name is Brandon, a Senior Full-Stack Software Engineer who has worked within 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-bjwells&style=for-the-badge&label=Profile+Views&abbreviated=true)
 [![Static Badge](https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge)](https://www.linkedin.com/in/wellsbrandon)
-[![Static Badge](https://img.shields.io/badge/-X-000?style=for-the-badge)]([https://www.linkedin.com/in/wellsbrandon](https://twitter.com/_bjwells))
+[![Static Badge](https://img.shields.io/badge/-X-000?style=for-the-badge)](https://twitter.com/_bjwells)
 
 
 <!--
