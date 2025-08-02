@@ -2,6 +2,11 @@
 
 My name is Brandon, a Senior Full-Stack Software Engineer who has worked within the industry for over a decade. Throughout my career as a programmer, I've worn many hats&mdash;project lead, developer, designer, and marketer. Along the way, I gained valuable skills beyond coding, including design, marketing and project management, which have become crucial assets that made me stand out among my peers.
 
+![Profile Views](https://komarev.com/ghpvc/?username=dev-bjwells&style=for-the-badge&label=Profile+Views&abbreviated=true)
+[![Static Badge](https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge)](https://www.linkedin.com/in/wellsbrandon)
+[![Static Badge](https://img.shields.io/badge/-X-000?style=for-the-badge)]([https://www.linkedin.com/in/wellsbrandon](https://twitter.com/_bjwells))
+
+
 <!--
 **dev-bjwells/dev-bjwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
